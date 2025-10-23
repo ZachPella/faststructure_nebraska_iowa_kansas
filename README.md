@@ -1,6 +1,8 @@
 # FastStructure Analysis Tools
 
 **Improved Python scripts for FastStructure output analysis and visualization**
+<img width="1018" height="754" alt="Screenshot 2025-10-21 141107" src="https://github.com/user-attachments/assets/1075ce1e-8c4c-45e3-bec1-88ce9567eb2d" />
+<img width="1089" height="470" alt="Screenshot 2025-10-21 105942" src="https://github.com/user-attachments/assets/1767f56f-60d1-4322-b430-f2c7dcfa13cd" />
 
 ## Why This Exists
 
